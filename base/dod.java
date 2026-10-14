@@ -7,5 +7,4 @@ public class dod{
                 System.out.println("odd a number");
             }
     }
-    
 }

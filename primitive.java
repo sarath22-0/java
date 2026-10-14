@@ -1,5 +1,5 @@
 public class primitive{
-    public static void main(String[]args){
+    public statigic void main(String[]args){
         int studentage=21;
         double gpa=3.65;
         char gpad ='A';
